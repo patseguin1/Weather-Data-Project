@@ -1,0 +1,94 @@
+Name,Date time,Maximum Temperature,Minimum Temperature,Temperature,Wind Chill,Heat Index,Precipitation,Snow,Snow Depth,Wind Speed,Wind Direction,Wind Gust,Visibility,Cloud Cover,Relative Humidity,Conditions
+"Summit, NJ, United States",11/01/2017,54.2,37.4,46.4,37.1,,0,0,0,7.1,98.54,,9.9,67.4,70.07,Partially cloudy
+"Summit, NJ, United States",11/02/2017,74.1,53.5,63,,,0,0,0,12.5,123,21.9,9.9,64.6,78.71,Partially cloudy
+"Summit, NJ, United States",11/03/2017,74.1,52.8,63.1,,,0,0,0,18.6,223.33,31.1,9.5,44,77.12,Partially cloudy
+"Summit, NJ, United States",11/04/2017,56.3,41,49.4,38.4,,0,0,0,11.4,113.13,26.4,9.9,38.1,62.37,Partially cloudy
+"Summit, NJ, United States",11/05/2017,59.1,50.8,55.3,,,0.04,0,0,7.9,87.63,,7.6,92.9,89.85,"Rain, Overcast"
+"Summit, NJ, United States",11/05/2017,66.5,48.6,60.7,43.8,,0,0,0,13.8,226.96,27.5,9,68.8,84.81,Partially cloudy
+"Summit, NJ, United States",11/06/2017,48.2,37.2,42.8,32.3,,0.53,0,0,13.3,161.88,21.9,8.9,47.8,75.07,"Rain, Partially cloudy"
+"Summit, NJ, United States",11/07/2017,49.9,38.3,42.7,31.1,,0.03,0,0,12.2,63.88,23,9.9,62.6,76.52,"Rain, Partially cloudy"
+"Summit, NJ, United States",11/08/2017,53.6,35.1,44.8,29.8,,0,0,0,8.1,73.21,,9.9,68.9,80.23,Partially cloudy
+"Summit, NJ, United States",11/09/2017,50.4,25.1,37.3,14.5,,0.02,0,0,21,299.13,32.8,9.8,32.2,52.24,"Rain, Partially cloudy"
+"Summit, NJ, United States",11/10/2017,39.2,22.9,29.7,12.5,,0,0,0,10.1,193.17,18.3,9.9,21.7,43.08,Clear
+"Summit, NJ, United States",11/11/2017,46.3,25.7,35,20.6,,0,0,0,7.2,117.38,,9.9,29.2,53.71,Partially cloudy
+"Summit, NJ, United States",11/12/2017,47,36.9,40.4,32.1,,0.1,0,0,9,94.17,,9,63.2,74.08,"Rain, Partially cloudy"
+"Summit, NJ, United States",11/13/2017,47.3,31.7,39.3,27.2,,0,0,0,9.5,153,,9.4,47.1,74.36,Partially cloudy
+"Summit, NJ, United States",11/14/2017,48.6,30.3,41,24.3,,0,0,0,7.8,66.71,,9.3,48.8,75.04,Partially cloudy
+"Summit, NJ, United States",11/15/2017,56.3,45.5,49.5,38.9,,0.13,0,0,18.6,205.13,35,9.3,55.9,73.56,"Rain, Partially cloudy"
+"Summit, NJ, United States",11/16/2017,48.8,35.4,42.4,30.2,,0,0,0,20,289.63,31.7,9.9,39.8,48.79,Partially cloudy
+"Summit, NJ, United States",11/17/2017,48.6,27.6,38.4,29.4,,0.14,0,0,6.6,107.79,,8.8,51.8,73.53,"Rain, Partially cloudy"
+"Summit, NJ, United States",11/18/2017,58.4,41.6,49.8,34.6,,0.16,0,0,23.4,249.71,40.4,8.9,77,67.08,"Rain, Overcast"
+"Summit, NJ, United States",11/19/2017,47.1,35.5,40.6,29.1,,0,0,0,18.4,258,29.8,9.9,44.4,53.92,Partially cloudy
+"Summit, NJ, United States",11/20/2017,58.6,32.9,44.4,30.6,,0,0,0,14,173.67,27.7,9.9,30.9,57.32,Partially cloudy
+"Summit, NJ, United States",11/21/2017,52.3,36.4,44.2,27.2,,0.08,0,0,18.6,199.5,30,9.5,63.2,72.02,"Rain, Partially cloudy"
+"Summit, NJ, United States",11/22/2017,43.7,28.9,35.4,24.4,,0,0,0,10,244.96,25.3,9.9,13.3,52.93,Clear
+"Summit, NJ, United States",11/23/2017,51.8,26.2,37.9,22.3,,0,0,0,7.1,149.17,,9.9,3.8,58.08,Clear
+"Summit, NJ, United States",11/24/2017,57.2,30.4,43.5,30.3,,0,0,0,9.3,162,,9.9,23.6,63.63,Clear
+"Summit, NJ, United States",11/25/2017,49.3,34.9,43.9,29.9,,0,0,0,16.1,263.29,27.9,9.9,46,55.76,Partially cloudy
+"Summit, NJ, United States",11/26/2017,52.4,35.6,42.6,30.9,,0,0,0,15.5,236.75,25.1,9.9,26.6,51.28,Partially cloudy
+"Summit, NJ, United States",11/27/2017,53,30.3,40.8,24.2,,0,0,0,9.2,103.71,18.3,9.9,18.7,72.6,Clear
+"Summit, NJ, United States",11/28/2017,64.1,40.9,49.4,37.1,,0,0,0,19.5,252,32.2,9.8,17.2,62.59,Clear
+"Summit, NJ, United States",11/29/2017,49.8,31.1,39.8,23.8,,0,0,0,7.9,85.08,,9.9,32.7,72.38,Partially cloudy
+"Summit, NJ, United States",11/30/2017,51.5,35.3,44.1,32.2,,0.02,0,0,13.5,214.21,24.3,9,38.6,71.15,"Rain, Partially cloudy"
+"Summit, NJ, United States",12/01/2017,47.8,29.1,38.4,26,,0,0,0,3.4,56.13,,9.9,27.7,71.57,Partially cloudy
+"Summit, NJ, United States",12/02/2017,47.5,35.4,41.1,33.9,,0,0,0,6.3,62.88,,9.3,70.5,81.63,Partially cloudy
+"Summit, NJ, United States",12/03/2017,52,30.9,40.8,27.7,,0,0,0,7.6,79.75,,6.3,44.9,82.2,Partially cloudy
+"Summit, NJ, United States",12/04/2017,61.8,50,55.3,,,0.22,0,0,12.8,162.54,22.4,9,79.4,80.3,"Rain, Overcast"
+"Summit, NJ, United States",12/05/2017,56.9,36.4,44.9,32,,0.05,0,0,13.7,240.96,32.1,9.7,50.3,53.43,"Rain, Partially cloudy"
+"Summit, NJ, United States",12/06/2017,44.5,30.5,37.6,25.8,,0,0,0,21.1,208,30.2,9.9,32.3,49.55,Partially cloudy
+"Summit, NJ, United States",12/07/2017,36.9,30.8,34.6,25.6,,0,0,0,7.5,219.33,,9.9,39.3,51.97,Partially cloudy
+"Summit, NJ, United States",12/08/2017,34.3,29.8,32,22.2,,0.28,3.49,3.49,8.4,184.88,19.7,5.5,91,73.23,"Snow, Overcast"
+"Summit, NJ, United States",12/09/2017,38.3,25.8,32.5,18.8,,0,1.51,3.87,13,215.67,18.8,9.5,44.6,70.14,"Snow, Partially cloudy"
+"Summit, NJ, United States",12/10/2017,41.6,30.7,35.5,25.1,,0,0,2.95,10.9,206.54,,9.9,63.8,60.19,Partially cloudy
+"Summit, NJ, United States",12/11/2017,46.7,32.6,40.6,22.1,,0.01,0.63,1.18,15.8,199.54,29.2,9.7,74.4,68.51,"Snow, Partially cloudy"
+"Summit, NJ, United States",12/12/2017,31.6,19.6,25.6,5.3,,0,0.69,0.69,23.4,281.29,41.1,9.9,37.7,41.83,"Snow, Partially cloudy"
+"Summit, NJ, United States",12/13/2017,32.1,22.1,25.7,13.8,,0.08,0.65,1.34,16.4,224.71,25.6,7.6,52.6,66.24,"Snow, Partially cloudy"
+"Summit, NJ, United States",12/14/2017,26,15.5,21,10.5,,0.08,0.46,1.64,7.1,168.63,,8.1,49.7,67.49,"Snow, Partially cloudy"
+"Summit, NJ, United States",12/15/2017,37.1,17.7,27.7,7.9,,0,0.33,1.97,12.2,216.54,26.4,9.3,61.3,72.04,"Snow, Partially cloudy"
+"Summit, NJ, United States",12/16/2017,37.3,31.1,34,27.2,,0,0,1.72,6.1,43.42,,9.9,68.3,65.87,Partially cloudy
+"Summit, NJ, United States",12/17/2017,46.6,33.2,39.2,28,,0.02,0,1.33,6.3,111.67,,8.8,87.9,72.97,"Rain, Overcast"
+"Summit, NJ, United States",12/18/2017,55.3,42.4,48.5,39.3,,0,0,0,20.9,221.42,31.7,9.5,62.3,63.19,Partially cloudy
+"Summit, NJ, United States",12/19/2017,48.4,32.9,42.8,26.8,,0,0,0,16.1,269.75,31.1,9.9,29.9,44.39,Partially cloudy
+"Summit, NJ, United States",12/20/2017,40.8,26.5,33.6,22.7,,0,0,0,7.7,207.79,,9.9,26.1,51.6,Partially cloudy
+"Summit, NJ, United States",12/21/2017,45.1,31.6,37.8,27.8,,0,0,0,6.4,41.42,,9.9,71.1,60.8,Partially cloudy
+"Summit, NJ, United States",12/22/2017,47.2,37.9,41.1,32,,0.49,0,0,12.8,101.21,21.9,5,86.7,93.89,"Rain, Overcast"
+"Summit, NJ, United States",12/23/2017,41.1,35.8,38.1,28.3,,0,0,0,11.4,177.58,25.3,9.8,49,66.56,Partially cloudy
+"Summit, NJ, United States",12/24/2017,36.2,27.5,33.3,15.3,,0.16,0,0,25.1,226.25,40.6,8.4,68.3,65.46,"Rain, Partially cloudy"
+"Summit, NJ, United States",12/25/2017,28.1,20.5,24.8,11.1,,0,0,0,15.8,257.75,27.1,9.9,27,37,Partially cloudy
+"Summit, NJ, United States",12/26/2017,24.6,16.5,20.3,5.8,,0,0,0,13.9,284.92,24.2,9.9,39,42.8,Partially cloudy
+"Summit, NJ, United States",12/27/2017,18.8,11.9,15,-2.6,,0,0,0,15.9,307.33,26.9,9.9,13.1,42.29,Clear
+"Summit, NJ, United States",12/28/2017,22.5,11,15.6,-0.6,,0,0,0,12.7,290.04,23,9.9,45.1,50.08,Partially cloudy
+"Summit, NJ, United States",12/29/2017,22.1,13.6,17.4,4.9,,0.02,0.23,0.23,7.2,184.96,,7.2,61.4,74.31,"Snow, Partially cloudy"
+"Summit, NJ, United States",12/30/2017,18.8,9,14.2,-5,,0,0.16,0.39,17.1,311.21,34.8,9.8,24.4,53.42,Snow
+"Summit, NJ, United States",12/31/2017,19.3,4.8,11.4,-9.4,,0,0,0.39,14.5,286.21,23.6,9.9,11.3,49.76,Clear
+"Summit, NJ, United States",01/01/2018,25.9,11.4,17.4,-2.5,,0,0,0.39,12.8,256.29,24.2,9.9,18.5,53.08,Clear
+"Summit, NJ, United States",01/02/2018,28.6,8.4,19.1,1.2,,0,0,0.39,7.3,115.42,,9.9,34.7,51.47,Partially cloudy
+"Summit, NJ, United States",01/03/2018,27.1,20.5,23.7,5.6,,0.4,2.07,2.46,23,244.42,38.1,5.4,88.8,66.55,"Snow, Overcast"
+"Summit, NJ, United States",01/04/2018,19.4,8.5,13.1,-10.4,,0,1.48,3.94,23.9,288.17,36.2,9.6,22.9,45.12,Snow
+"Summit, NJ, United States",01/05/2018,13.5,7.2,9.6,-9.6,,0,0,3.44,20.4,291.38,32.1,9.9,8,40.73,Clear
+"Summit, NJ, United States",01/06/2018,17.5,1.7,10.3,-10.9,,0,0,3.15,12.5,251.25,24.2,9.9,24.3,47.76,Clear
+"Summit, NJ, United States",01/07/2018,34.3,16.5,23.4,3.6,,0.01,0,2.66,11.5,205.38,,9.6,87.2,58.31,"Rain, Overcast"
+"Summit, NJ, United States",01/08/2018,43.3,21.5,33.7,13.8,,0,0,2.36,16,240.38,28.7,9.2,30.9,62.37,Partially cloudy
+"Summit, NJ, United States",01/09/2018,40,19.7,30.7,32.7,,0,0,2.36,6.6,100.04,,9.9,39.9,69.84,Partially cloudy
+"Summit, NJ, United States",01/10/2018,51.3,33,40.5,42.1,,0,0,2.12,3.4,45,,8.9,81,81.46,Overcast
+"Summit, NJ, United States",01/11/2018,64.1,41.6,55.6,38.5,,0.85,0,0,15,128.88,26.8,4,99.3,96.74,"Rain, Overcast"
+"Summit, NJ, United States",01/12/2018,60.2,19.1,38,5,,0.15,0,0,21.5,275.46,35.6,8.6,58.5,69.41,"Rain, Partially cloudy"
+"Summit, NJ, United States",01/13/2018,25.2,13.6,18.4,0.1,,0,0,0,17.2,216.54,27.1,9.9,13.7,44.33,Clear
+"Summit, NJ, United States",01/14/2018,30.2,14.1,21.9,1.8,,0,0,0,12.3,40.96,20.8,9.9,57.3,58.5,Partially cloudy
+"Summit, NJ, United States",01/15/2018,36,22.1,29.3,16.6,,0,0,0,5.9,74.54,,9.6,96.2,75,Overcast
+"Summit, NJ, United States",01/16/2018,33.9,21.4,30.6,10.1,,0.15,1.39,1.39,11.6,237.83,24.2,6.4,84.9,82.82,"Snow, Overcast"
+"Summit, NJ, United States",01/17/2018,32.4,14.6,23.1,5.8,,0,0.56,1.95,13.7,268.67,25.3,9.8,7.8,56.71,Snow
+"Summit, NJ, United States",01/18/2018,38,17.4,27.1,11.5,,0,0,1.72,10.6,194.46,21.9,9.6,26.8,60.8,Partially cloudy
+"Summit, NJ, United States",01/19/2018,51.2,30.7,40.1,23.8,,0,0,1.57,17.1,224.58,31.6,9.9,31.1,52.01,Partially cloudy
+"Summit, NJ, United States",01/20/2018,51,30.5,41.1,30.8,,0,0,0,7.2,160.79,,9.9,48.4,65.67,Partially cloudy
+"Summit, NJ, United States",01/21/2018,50.1,39.5,43.5,34.7,,0.01,0,0,9.1,52.96,,6.7,94.4,83.18,"Rain, Overcast"
+"Summit, NJ, United States",01/22/2018,61.1,38.3,47.9,34.2,,0.36,0,0,16,164.04,31.9,5.8,75.9,81.77,"Rain, Overcast"
+"Summit, NJ, United States",01/23/2018,43.5,28.9,38.6,19.3,,0,0,0,18.8,289.21,30,9.9,53.6,52.44,Partially cloudy
+"Summit, NJ, United States",01/24/2018,35,22.3,28,10.9,,0,0,0,17.6,307.58,27.7,9.9,21.4,40.27,Clear
+"Summit, NJ, United States",01/25/2018,38.3,18.1,29,13.1,,0,0,0,7.2,117.67,,9.9,18.4,46.03,Clear
+"Summit, NJ, United States",01/26/2018,55.3,24.3,40.1,25.9,,0,0,0,14.2,170.29,26.9,9.9,31.2,66.24,Partially cloudy
+"Summit, NJ, United States",01/27/2018,53.1,40.7,48.1,41,,0.14,0,0,7,163.88,,8.3,88.9,82.55,"Rain, Overcast"
+"Summit, NJ, United States",01/28/2018,43.2,36.5,40,30.4,,0,0,0,13.9,55.88,23,9.8,66.1,64.86,Partially cloudy
+"Summit, NJ, United States",01/29/2018,37.7,24.7,31.8,11.9,,0.03,0,0,20.9,192.21,32.2,7.6,95.3,71.24,"Rain, Overcast"
+"Summit, NJ, United States",01/30/2018,31.9,16.1,24.6,5.4,,0,0,0,13.9,259.83,28,9.9,31.6,45.6,Partially cloudy
+"Summit, NJ, United States",01/31/2018,44.6,29.7,36.4,22.1,,0,0,0,8.3,160.83,,9.9,80.6,59.25,Overcast
